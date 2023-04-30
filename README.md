@@ -19,9 +19,9 @@ To install `GDAL`, you can follow these steps:
 
 1. Check if GDAL is already installed on your system by opening a terminal/command prompt and typing `ogr2ogr`. If you see a list of options and usage instructions, GDAL is already installed.
 
-If `GDAL` is not installed, you can download and install it using a package manager appropriate for your operating system. For example, on Linux systems, you can install GDAL using the package manager for your Linux distribution. On Windows, you can download the GDAL binary installer from the [OSGeo4W](https://trac.osgeo.org/osgeo4w/) website  or from the [GDAL](https://gdal.org/download.html) website .
+2. If `GDAL` is not installed, you can download and install it using a package manager appropriate for your operating system. For example, on Linux systems, you can install GDAL using the package manager for your Linux distribution. On Windows, you can download the GDAL binary installer from the [OSGeo4W](https://trac.osgeo.org/osgeo4w/) website  or from the [GDAL](https://gdal.org/download.html) website .
 
-After installing `GDAL`, make sure to add the `GDAL` binaries to your system's PATH environment variable, so that you can run `ogr2ogr` from any directory in your terminal/command prompt.
+3. After installing `GDAL`, make sure to add the `GDAL` binaries to your system's PATH environment variable, so that you can run `ogr2ogr` from any directory in your terminal/command prompt.
 
 Once you have installed `GDAL`, you can use `ogr2ogr` to convert geospatial data between various formats.
 
