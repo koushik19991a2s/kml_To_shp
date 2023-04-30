@@ -1,5 +1,5 @@
 # kml_To_shp
-Convert KML file to ESRI Shapefile
+Python code performs a batch conversion of KML files to ESRI Shapefiles
 # KML to SHP
 
 This Python code performs a batch conversion of KML files to ESRI Shapefiles using the ogr2ogr command-line tool.
